@@ -21,7 +21,7 @@ I am a tech enthusiast taking my first steps in software development. Currently,
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/?username=korreiah&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Adriano%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed">
+
 <br>
 <img src="https://camo.githubusercontent.com/a26224c6d0d36f711bbbb54dda65acac4f2548d205f29c9205ba35fbfb2b3c9e/68747470733a2f2f6769746875622d73746174732d657874656e6465642e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c616e67735f636f756e743d34"><br>
 
